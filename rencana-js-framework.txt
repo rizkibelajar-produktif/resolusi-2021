@@ -2,3 +2,6 @@ Javascript Framework:
 React Js
 - node js
 - npm
+
+Tools
+- Visual code
